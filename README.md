@@ -29,7 +29,7 @@
         <pre><code>git clone https://github.com/mazimum86/SupportVectorMachine.git</code></pre>
     </li>
     <li>Navigate to the project directory:
-        <pre><code>cd SVM</code></pre>
+        <pre><code>cd SupportVectorMachine</code></pre>
     </li>
     <li>Install the required dependencies:
         <pre><code>pip install -r requirements.txt</code></pre>
